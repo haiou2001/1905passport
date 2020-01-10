@@ -1,4 +1,4 @@
-<?php
+    <?php
 namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
@@ -29,7 +29,7 @@ class ApiController extends Controller
     /**
      * @param Request $request
      * @return false|string
-     * 注册
+     * 注册1
      */
     public function reg(Request $request)
     {
